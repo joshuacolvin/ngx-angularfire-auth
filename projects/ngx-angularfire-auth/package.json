@@ -1,0 +1,27 @@
+{
+  "name": "ngx-angularfire-auth",
+  "version": "1.0.3",
+  "description": "A service for Angular Firebase authentication",
+  "author": "Joshua Colvin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshuacolvin/ngx-angularfire-auth"
+  },
+  "bugs": {
+    "url": "https://github.com/joshuacolvin/ngx-angularfire-auth/issues"
+  },
+  "homepage": "https://github.com/joshuacolvin/ngx-angularfire-auth",
+  "keywords": [
+    "Angular",
+    "Firebase",
+    "Angularfire",
+    "Authentication"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^8.2.13",
+    "@angular/core": "^8.2.13",
+    "@angular/fire": "^5.2.1",
+    "firebase": "^7.2.3"
+  }
+}
